@@ -1,4 +1,5 @@
-"info": {
+{
+	"info": {
 		"url_png_icon_64x64": "https://d1fdloi71mui9q.cloudfront.net/yVBJhZdTc6NMGr4Vytvw_dvlZR9RSw6y3TsQq",
 		"url_png_logo": "https://d1fdloi71mui9q.cloudfront.net/yVBJhZdTc6NMGr4Vytvw_dvlZR9RSw6y3TsQq",
 		"location": "Metaverse of Cardano",
@@ -7,5 +8,15 @@
 			"telegram_handle": "AdaVersePool",
 			"discord_handle": "ADAV#6657",
 			"github_handle": "AdaVersePool"
+		},
+		"about": {
+			"me": "Single Pool Operator, member of SPA and xSPO"
+		},
+		"my-pool-ids": {
+			"0": "4be4a454d63ef9aab7b44a31440a1f85eea3ee724bd13ca07b9ff255"
+		},
+		"when-satured-then-recommend": {
+			"0": "Pools members of Single Pool Alliance and xSPO"
 		}
 	}
+}
